@@ -5,7 +5,7 @@ import Home from "./Pages/Home"
 function App()
 {
     return (
-        <div className="bg-black h-screen overflow-y-auto">
+        <div className="bg-[#0A0A0A] h-screen overflow-y-auto">
             <Header/>
             <Home/>
             <Footer/>
